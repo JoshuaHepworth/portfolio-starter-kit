@@ -100,7 +100,7 @@ Another option is some kind of middleware that deploys from your repo for you. [
 
 Most hosting services also offer mail through your DNS - i.e., Nick@NickAnderson.Rocks. Using those mail services are up to you. While *in theory* they should be easy to configure and set up, even a small error can cause days of headaches and lost mail. Be sure to read your documentation to determine how easy it will be to set up, how you'll be able to access your mail, and if it costs extra. There is an entire week's worth of classes we could teach on configuring mail servers, so be prepared to read a lot of documentation and Google a lot questions if you go this route. 
 
-![Make sure you understand mail servers before you use them](http://www.frontpagemag.com/sites/default/files/styles/article_full/public/uploads/2016/01/hillary_clinton3_3.jpg?itok=GajKWux_)
+![Make sure you understand mail servers before you use them](img/emails.jpg)
 *Protip - make sure you understand mail servers before you use them*
 
 It's perfectly normal to have a generic gmail address not associated with your website as your main point of contact. That being said, the effect of a personalized email address on your DNS conveys an even more polished and professional presentation. 
