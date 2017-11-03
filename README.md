@@ -107,6 +107,16 @@ It's perfectly normal to have a generic gmail address not associated with your w
 
 >My suggestion would be to try to set up an email server through your DNS, but don't get it printed on business cards until you are absolutely sure it is functional and usable. 
 
+## Good examples:
+
+- [Nick Anderson](http://nickanderson.rocks/)
+- [Matt Webb](http://www.mattwebb.co/)
+- [Clay Smith (WDI2)](http://clay-code.com/)
+- [Jacy Anderson (WDI3)](http://jacyanderson.co/)
+- [Taylor Laine (WDI3)](http://www.taylorlaine.codes/)
+- [Cam Barclay (WDI3)](http://camcreates.co/)
+
+
 ## Common Issues and Testing
 
 There's a few things to keep in mind as you progress through this proccess:
