@@ -78,7 +78,7 @@ While we've learned a lot of fancy tools to make full-stack sites, you probably 
 
 ### Bootstrap Templates
 
-![Bootstrap templates](https://startbootstrap.com/img/templates/freelancer.jpg)
+Bootstrap templates
 
 Using a template for your personal site is generally a bad idea - but since you've had only minimal design training, and will have very little time to devote attention to your webitse pre-grad, this is probably going to be neccessary. Given the choice between a poorly-designed site you made yourself, and a great site you used a template for, employers would rather see the later. The work INSIDE your portfolio will speak to your skill as a developer.
 
